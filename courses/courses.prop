@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "courses": {
+      "description": "Plugin pour la liste des courses",
+      "version": "0.2"
+      
+    }
+  }
+}

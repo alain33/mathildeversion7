@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "vide": {
+      "description": "Plugin pour ",
+      "version": "0.2"
+      
+    }
+  }
+}
